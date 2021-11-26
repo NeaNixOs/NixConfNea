@@ -84,6 +84,11 @@
      firefox
      pkgs.gnome3.gnome-tweaks
      git
+     fish
+     alacritty
+     mc
+     bpytop
+     vlc
    ];
 
   # Some programs need SUID wrappers, can be configured further or are
